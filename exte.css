@@ -1,0 +1,15 @@
+body {
+    background-color: yellow;
+    color: azure;
+    font-size: 1.1em;
+}
+h1 {
+    color: coral;
+}
+#intro {
+    font-size: 5.3em;
+text-transform:uppercase;
+}
+.myclass {
+    color: white;
+}
